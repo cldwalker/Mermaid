@@ -1,0 +1,4 @@
+[
+ [:app :lt.objs.plugins/load-js "mermaid_compiled.js"]
+ [:myplugin.hello :lt.plugins.mermaid/on-close-destroy]
+ ]
