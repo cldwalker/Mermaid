@@ -1,0 +1,12 @@
+.mermaid g.node {
+  color: black;
+}
+
+.mermaid path.path {
+  stroke: darkgrey !important;
+  stroke-width: 2.5px !important;
+}
+
+.mermaid marker path {
+  fill: darkgrey !important;
+}
