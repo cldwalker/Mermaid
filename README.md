@@ -2,6 +2,8 @@
 
 Mermaid is a Light Table plugin that generates diagrams and flowcharts from text using [mermaid](https://github.com/knsv/mermaid).
 
+![Usage Example](example.gif)
+
 ## Install
 
 Install this plugin with LT's plugin manager or clone this project to your LT
