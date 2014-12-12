@@ -22,7 +22,7 @@ Please report them [on github](http://github.com/cldwalker/Mermaid/issues).
 
 ## TODO
 * Add a command to export generated svg based on http://bl.ocks.org/mbostock/6466603. Contribution
-  most welcome as this method seems to loose a lot of styling.
+  most welcome as this method seems to lose a lot of styling.
 
 ## License
 See LICENSE.txt
