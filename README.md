@@ -16,6 +16,8 @@ is watched and automatically generates a diagram in the live tab.
 
 See the [Mermaid readme](https://github.com/knsv/mermaid#readme) for the different kinds of diagrams you can make.
 
+This is currently using mermaid 0.2.12.
+
 ## Bugs/Issues
 
 Please report them [on github](http://github.com/cldwalker/Mermaid/issues).
